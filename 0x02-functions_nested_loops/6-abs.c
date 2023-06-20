@@ -12,3 +12,5 @@
 		{
 			return (n);
 		}
+		return (-n);
+	}
